@@ -1,3 +1,16 @@
-body {
-    font-family: Helvetica;
+.player-one-score{
+  font-style: italic;
+  color: blue;
+}
+.player-two-score{
+  font-style: inherit;
+  color: red;
+}
+#player-one-name{
+  color: blue;
+  font-family: impact;
+}
+#player-two-name{
+  color: red;
+  font-family: Impact;
 }

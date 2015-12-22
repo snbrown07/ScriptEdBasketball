@@ -12,11 +12,11 @@
 
 <h1 class="result"></h1>
 
-    <h2 id="player-one-score"></h2>
-    <p class="player-one-name"></p>
+<h2 id="player-one-name"></h2>
+<p id="player-one-score"></p>
 <img src="https://blog-blogmediainc.netdna-ssl.com/upload/SportsBlogcom/2426693/0040162001431819872_filepicker.jpg">
-    <h2 id="player-two-score"></h2>
-    <p class="player-two-name"></p>
+  <h2 id="player-two-name"></h2>
+<p id="player-two-score"></p>
 <img src="http://cdn.slamonline.com/wp-content/uploads/2015/01/kevin-durant1-600x387.jpg">
 <div>
     <button class="js-two-pointer">Take a two point shot</button>
